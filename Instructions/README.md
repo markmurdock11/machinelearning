@@ -43,7 +43,7 @@ For each of the above, you will need to:
 3. Calculate the `confusion matrix` from `sklearn.metrics`.
 4. Print the `imbalanced classification report` from `imblearn.metrics`.
 
-Use the above to answer the following:
+Answer the following:
 
 > Which model had the best balanced accuracy score?
 >
